@@ -7,8 +7,7 @@ I’m Akash, a data analyst who’s passionate about using data to drive decisio
 - 🛠️ Other Tools: Excel, Jupyter Notebooks, Git
 
 ### Featured Projects:
-- [Retail sales analysis - SQL](https://github.com/akashmailar/Retail-sales-Analysis-using-SQL): The project involves setting up a retail sales database, performing exploratory data analysis (EDA),
-- and answering specific business questions through SQL queries.
+- [Retail sales analysis - SQL](https://github.com/akashmailar/Retail-sales-Analysis-using-SQL): The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
 - [Library management system - SQL](https://github.com/akashmailar/Library-management-system-using-SQL): The goal is to showcase skills in database design, manipulation, and querying.
 
 ### Currently Learning:
