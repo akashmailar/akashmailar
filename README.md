@@ -11,7 +11,7 @@ I’m Akash, a data analyst who’s passionate about using data to drive decisio
 
 - [JARVIS :- A Personal Assistant - Python](https://github.com/akashmailar/Jarvis-A-Personal-Assistant-project-):- Your very own customizable personal assistant! Inspired by the idea of Tony Stark's AI from the Iron Man franchise, Jarvis is designed to help you automate tasks, improve productivity, and streamline day-to-day activities.
 
-- [Retail sales analysis - SQL](https://github.com/akashmailar/Retail-sales-Analysis-using-SQL):- The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
+- [Netflix Movie Data Analysis (EDA) - Python](https://github.com/akashmailar/Netflix-Movie-Data-Analysis-EDA):- This project involves performing exploratory data analysis (EDA) on a dataset containing information about Netflix movies and TV shows. The goal of this analysis is to uncover trends, patterns, and insights that can help understand Netflix’s content better, including the distribution of genres, release years, ratings, and other features.
   
 - [E-Commerce Sales Anlysis - Python](https://github.com/akashmailar/E-Commerce-Sales-Analysis):- This project aims to analyze e-commerce sales data to derive insights that can help businesses understand customer behavior, sales trends, and areas for improvement. Through the analysis, we explore key metrics like sales growth, seasonal trends, customer demographics, and product performance.
 
