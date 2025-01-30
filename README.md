@@ -16,7 +16,7 @@ I’m Akash, a data analyst who’s passionate about using data to drive decisio
 - [E-Commerce Sales Anlysis (EDA) - Python](https://github.com/akashmailar/E-Commerce-Sales-Analysis):- This project aims to analyze e-commerce sales data to derive insights that can help businesses understand customer behavior, sales trends, and areas for improvement. Through the analysis, we explore key metrics like sales growth, seasonal trends, customer demographics, and product performance.
 
 ### Currently Learning:
-- Deepening my knowledge of machine learning for predictive analytics.
+- Deepening my knowledge of Machine Learning for predictive analytics.
 - Exploring advanced SQL techniques for efficient data querying.
 
 ### Let’s Connect!
