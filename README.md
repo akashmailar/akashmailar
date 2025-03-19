@@ -11,7 +11,7 @@ I’m Akash, a data analyst who’s passionate about using data to drive decisio
 
 - [Walmart Data Analysis - Python+SQL](https://github.com/akashmailar/Walmart-Sales-Analysis-Python-SQL):- This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
-- [Library Data Analysis - SQL](https://github.com/akashmailar/Library-management-system-using-SQL):- This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
+- [**Library Management System Analysis - SQL**](https://github.com/akashmailar/Library-management-system-using-SQL):- This project demonstrates the implementation of a **Library Management System using SQL**. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
   
 - [E-Commerce Sales Anlysis (EDA) - Python](https://github.com/akashmailar/E-Commerce-Sales-Analysis):- This project aims to analyze e-commerce sales data to derive insights that can help businesses understand customer behavior, sales trends, and areas for improvement. Through the analysis, we explore key metrics like sales growth, seasonal trends, customer demographics, and product performance.
 
