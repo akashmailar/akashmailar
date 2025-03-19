@@ -7,7 +7,7 @@ I’m Akash, a data analyst who’s passionate about using data to drive decisio
 - 🛠️ Other Tools: Excel, Jupyter Notebooks, Git
 
 ### Featured Projects:
-- [Telco Customer Churn Analysis - Python](https://github.com/akashmailar/Customer-Churn-Analysis-EDA):- The analysis explores customer churn patterns, focusing on various factors such as payment methods, contract types, tenure, and demographic attributes. The goal is to identify which factors are most strongly associated with higher churn rates to guide customer retention strategies.
+- [**Tata Steel Machine Failure Prediction - EDA**](https://github.com/akashmailar/Tata-Steel-Machine-Failure-Prediction):- This project focuses on predicting machine failures in ***Tata Steel***'s manufacturing operations using **Exploratory Data Analysis (EDA)**. The dataset contains **136,429 rows** and **14 columns**, providing valuable insights into the operational conditions of machines. The goal is to identify key factors contributing to machine failures, enabling early detection and minimizing downtime, improving safety, and reducing maintenance costs.
 
 - [Walmart Data Analysis - Python+SQL](https://github.com/akashmailar/Walmart-Sales-Analysis-Python-SQL):- This project is an end-to-end data analysis solution designed to extract critical business insights from Walmart sales data. We utilize Python for data processing and analysis, SQL for advanced querying, and structured problem-solving techniques to solve key business questions. The project is ideal for data analysts looking to develop skills in data manipulation, SQL querying, and data pipeline creation.
 
